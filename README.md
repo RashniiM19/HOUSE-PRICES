@@ -152,7 +152,7 @@ plt.show()
 
 ## 🙋‍♀️ Author
 
-Created by [Your Name]. Feel free to contribute, fork, or open issues.
+Created by RASHMI.M
 
 ---
 
